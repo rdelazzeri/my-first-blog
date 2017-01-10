@@ -64,3 +64,33 @@ aaff2365
 
 runserver
  http://127.0.0.1:8000/admin/
+
+13 - configurada a conta do github
+usu: rdelazzeri@hotmail.com
+pass: Ra09Lu29 acho
+
+14 - configurarada a conta no python anywhere
+
+python anywhere
+superuser delraf aaff2365
+usado para acessar o admin django
+
+#### aplicacao rodando na net.....
+
+link para configurar apache no linux
+https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-apache-and-mod_wsgi-on-ubuntu-14-04
+https://docs.djangoproject.com/pt-br/1.10/howto/deployment/wsgi/modwsgi/
+https://docs.djangoproject.com/en/1.10/topics/install/
+
+Nginx
+http://pythonclub.com.br/configurando-um-servidor-de-producao-para-aplicacoes-python.html
+
+*-**-*-*-*-*-*-*-*-*-*-*---*-*-*--*-*-*-*
+
+15 - urls
+padroes regex
+^ para o início do texto
+$ para o final do texto 
+\d para um dígito
++ para indicar que o item anterior deve ser repetido pelo menos uma vez
+() para capturar parte do padrão
